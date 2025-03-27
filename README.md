@@ -27,4 +27,4 @@ Find a song you like.
 
 Copy the URL (e.g. https://www.tekstowo.pl/piosenka,stromae__pomme,ma_meilleure_ennemie.html) (Ctrl + C)
 
-Launch the game and press "Graj" (play), then paste the link (Ctrl + V) when prompted.
+Launch the game and press "Graj" (play), then paste the link (Ctrl + V) in the box.
