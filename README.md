@@ -1,7 +1,7 @@
 # lyricsspeedtest
 Paste ur favourite music lyrics and rewrite the text as quickly as possible
 
-Download all files in one folder, open cmd and change director into ur donwloaded folder
+Download all files in one folder, open cmd and change director into ur donwloaded folder.
 useful commands:
 
 "cd (name of the folder)" or "D: - as a D write ur disk (C, D, E etc.)"
