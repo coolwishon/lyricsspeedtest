@@ -3,6 +3,8 @@ Paste your favorite song lyrics and try to rewrite the text as fast as possible!
 
 How to Run:
 
+Works on Python 3.13.2
+
 Download all files into one folder.
 
 Open Command Prompt (cmd) and navigate to the folder.
