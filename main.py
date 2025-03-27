@@ -1,5 +1,5 @@
 # MIT License
-# Copyright (c) 2025 coolwishon
+# Copyright (c) 2025 coolwi
 import pygame
 import sys
 import requests
